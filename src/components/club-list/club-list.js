@@ -14,7 +14,6 @@ class ClubList extends Component {
         
         clubstoreService.getClubs()
             .then((data) => {
-                console.log(data)
                 clubsLoaded(data.data)
             })
     }
