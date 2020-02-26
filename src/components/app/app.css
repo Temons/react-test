@@ -1,0 +1,16 @@
+.container{
+    margin: 0 auto;
+    padding: 0;
+    max-width: 765px;
+}
+
+h1{
+    margin: 0;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 77px;
+    color: #000000;
+}
+

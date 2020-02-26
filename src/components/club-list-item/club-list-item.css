@@ -1,0 +1,34 @@
+.box{
+    display: flex;
+    align-items: center;
+    max-width: 765px;
+    margin: 0 auto;
+}
+
+.trainName{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 41px;
+    color: #121212;
+}
+
+.workingTime{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 41px;
+    color: #121212;
+    padding: 0;
+}
+
+.clubName{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #A2A2A2;
+}
